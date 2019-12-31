@@ -3,7 +3,7 @@
 namespace FurkanGM\Trade\form;
 
 use FurkanGM\Trade\Main;
-use Life\Core\Gui\TradeGui;
+use FurkanGM\Trade\gui\TradeGui;
 use dktapps\pmforms\ModalForm;
 use pocketmine\Player;
 
