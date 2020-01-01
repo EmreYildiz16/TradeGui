@@ -1,7 +1,7 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/FurkanGM/Trade
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/FurkanGM/TradeGui
 branches:
 - master
 projects:
-  Trade:
+  TradeGui:
     path: ""
 ...
